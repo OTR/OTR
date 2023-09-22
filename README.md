@@ -31,6 +31,12 @@ I'm a Backend Developer, who's used to creating web applications with Python :sn
 - [Android Basics With Compose](https://developers.google.com/profile/u/112778570515654566410), [Google Codelabs](https://developer.android.com/), June 2023
 - [Android Development with Kotlin](https://hyperskill.org/profile/465698208), JetBrains Academy, Jule 2023
 
+## Experience:
+
+ - In my previous job as a data center engineer, I improved the workflow by developing a a simple Django service. It periodically polled each HVAC controller, logged the data in a database, and displayed it in real-time on a web page using JavaScript. [Source code](https://github.com/OTR/siemens_climatix_webui)
+
+ - I created an email notification service that tracks prices on cryptocurrency exchange platform [Source code](https://github.com/OTR/exchange_webui)
+
 <!--- 
 ## Github Stats
 ![Metrics](/github-metrics.svg)
