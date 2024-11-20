@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Backend Developer, who's used to creating web applications with Python :snake:, then I met with Kotlin :sailboat: and fall in love with it. I also have knowledge in automation testing 🛠📋.
+I'm a Backend Developer, who's creating web applications with Python :snake:, also have experience with Kotlin and Android :sailboat:. I also have knowledge in automation testing 🛠📋.
 
 - :mortar_board: My education: Bachelor's degree in engineering
 - 🔭 I’m currently working on my education platform 📚🏫
